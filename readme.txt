@@ -89,13 +89,26 @@ Estrutura de um console app [
     }
 ]
 
-Definições do escopo de um programa {
+Escopo de um programa {
     - Importações {
         Ficam no começo do arquivo;
+        Sempre definidas pelo using;
+        Definem as bibliotecas que nosso programa irá utilizar;
+        Por padrão só o básico vem incluso;
+        Precisamos importar o que desejamos para poder trabalhar;
     }
     - Namespace {
         Divisão lógica dentro da aplicação (divisão física é feita pelos arquivos);
+        Não podemos ter duas classes com o mesmo nome em um namespace;
+        O ideal é ter apenas um namespace e uma classe por arquivo;
+        Namespaces podem ser reutilizados em diversos arquivos;
+        Não existe limite de quantidade nos namespaces;
+        Não devem conter espaços ou caracteres especiais;
+        Toda palavra no namespace começa com maiúsculo;
+        Podemos ter um namespace dentro de outro utilizando o '.' para concatenar ex: MeuApp.Teste;
+        Durante a execução, todos os arquivos do c# são unificados;
+        A divisão física se perderá, ficando apenas a divisão lógica, os namespaces;
     }
     - Classe {}
-    - Método principal {}
+    - Método principal (Main) {}
 }
