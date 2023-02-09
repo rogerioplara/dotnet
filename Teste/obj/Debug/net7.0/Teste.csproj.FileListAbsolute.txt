@@ -1,0 +1,15 @@
+C:\dotnet\Teste\bin\Debug\net7.0\Teste.exe
+C:\dotnet\Teste\bin\Debug\net7.0\Teste.deps.json
+C:\dotnet\Teste\bin\Debug\net7.0\Teste.runtimeconfig.json
+C:\dotnet\Teste\bin\Debug\net7.0\Teste.dll
+C:\dotnet\Teste\bin\Debug\net7.0\Teste.pdb
+C:\dotnet\Teste\obj\Debug\net7.0\Teste.csproj.AssemblyReference.cache
+C:\dotnet\Teste\obj\Debug\net7.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Teste\obj\Debug\net7.0\Teste.AssemblyInfoInputs.cache
+C:\dotnet\Teste\obj\Debug\net7.0\Teste.AssemblyInfo.cs
+C:\dotnet\Teste\obj\Debug\net7.0\Teste.csproj.CoreCompileInputs.cache
+C:\dotnet\Teste\obj\Debug\net7.0\Teste.dll
+C:\dotnet\Teste\obj\Debug\net7.0\refint\Teste.dll
+C:\dotnet\Teste\obj\Debug\net7.0\Teste.pdb
+C:\dotnet\Teste\obj\Debug\net7.0\Teste.genruntimeconfig.cache
+C:\dotnet\Teste\obj\Debug\net7.0\ref\Teste.dll
