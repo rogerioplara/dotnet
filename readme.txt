@@ -112,3 +112,23 @@ Escopo de um programa {
     - Classe {}
     - Método principal (Main) {}
 }
+
+Built-in types {
+    Tipos primitivos;
+    Tipos base cujo outros tipos (complexos) vão derivar;
+    Definir o tipo correto otimiza a execução do programa;
+    São chamados de tipos de valor;
+    Classificados em {
+        Tipos simples (simple types);
+        Enumeradores (enums);
+        Estruturas (structs);
+        Tipos nulos (nullable types);
+    }
+}
+
+System {
+    No .net tudo começa de um tipo base chamado System;
+    Todo e qualquer tipo, seja build-in ou complexo deriva dele;
+    Base de todos os objetos no .net;
+    Seu uso já é implícito;
+}
